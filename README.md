@@ -52,7 +52,6 @@ The objective was to identify the most impactful KPIs that reflect business grow
 - MAUs and ARPU showed strong, consistent growth
 - Retention improved in newer cohorts
 - Ad spend volatility didn’t always correlate with growth
-
 ## ✅ Recommendations
 
 - Focus on ARPU-driving initiatives
