@@ -50,5 +50,5 @@ The objective was to identify the most impactful KPIs that reflect business grow
 **Olufunmilola Olapeju Olaewe**  
 _MSc Statistics | Growth Data Analyst_  
 📧 olufunmilolaolapejuolaewe@gmail.com]  
-🔗 [LinkedIn Profile](#)
+🔗 [https://www.linkedin.com/in/olufunmilolaolaewe/](#)
 
