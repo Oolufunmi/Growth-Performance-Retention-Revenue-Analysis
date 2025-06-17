@@ -2,6 +2,21 @@
 
 A cohort-based growth and revenue analysis for a financial platform, using MAU, ARPU, and retention metrics to uncover performance trends.
 
+## 📚 Table of Contents
+
+1. [Overview](#-overview)  
+2. [Data Sources](#-data-sources)  
+3. [Additional Dataset Information & Case Study Prompt](#-aditional-information-about-the-dataset--casestudy-prompt)  
+4. [Growth Analyst Case Study Prompt](#-growth-analyst-case-study-prompt)  
+5. [Instructions](#-instructions)  
+6. [Project Files](#-project-files)  
+7. [Key KPIs Analyzed](#-key-kpis-analyzed)  
+8. [Tools & Approach](#-tools--approach)  
+9. [Key Insights](#-key-insights)  
+10. [Recommendations](#-recommendations)  
+11. [Author](#-author)
+
+
 ## 📊 Overview
 
 This repository contains my analysis of the Growth Data Analyst Case Study, focused on analyzing user and business performance across a 16-month period.
@@ -25,7 +40,7 @@ The objective was to identify the most impactful KPIs that reflect business grow
 - Used for retention analysis, ARPU calculation, and transaction trends.
 
 ---
-### Aditional Information about the dataset & CaseStudy Prompt
+### Aditional Information about the dataset & CaseStudy Context
   two primary datasets were used for this Growth Data Analysis case study:
 
 - 01_signup.csv: Contains monthly digital ad spend, app installs, and new accounts created.
