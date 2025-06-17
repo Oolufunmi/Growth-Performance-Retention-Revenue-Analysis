@@ -96,7 +96,7 @@ We are interested in understanding the average retention rate of our MAUs — ar
 
 ## 📄 Project Files
 
-- 📘 [User Performance Report.June 2025.pdf](./User Performance Report.June 2025.pdf)
+- 📘 [User Performance Report.June 2025.pdf](#User Performance Report.June 2025.pdf)
 - 📊 [01 Signup Data (CSV)](./data/01_signup.csv)
 - 📈 [02 Monthly Performance Data (CSV)](./data/02_monthly_performance.csv)
 
