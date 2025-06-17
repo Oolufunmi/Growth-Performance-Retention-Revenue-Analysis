@@ -4,7 +4,7 @@ A cohort-based growth and revenue analysis for a financial platform, using MAU, 
 
 ## 📊 Overview
 
-This repository contains my solution to the Growth Data Analyst Case Study, focused on analyzing user and business performance across a 16-month period.
+This repository contains my analysis of the Growth Data Analyst Case Study, focused on analyzing user and business performance across a 16-month period.
 
 The objective was to identify the most impactful KPIs that reflect business growth, user retention, and marketing effectiveness. The analysis was performed using two datasets:
 
@@ -16,6 +16,7 @@ The objective was to identify the most impactful KPIs that reflect business grow
 ## 📂 Data Sources
 
 ### `data/01_signup.csv`
+
 - Monthly ad spend, app installs, and account creation figures.
 - Used to assess marketing efficiency and acquisition trends.
 
@@ -42,6 +43,8 @@ The objective was to identify the most impactful KPIs that reflect business grow
 5. **[Bonus] Retention Rate** – Cohort stickiness across months
 
 ---
+- Report
+  [User Performance Report.June 2025.pdf](https://github.com/user-attachments/files/20777984/User.Performance.Report.June.2025.pdf)
 
 ## ⚙️ Tools & Approach
 
