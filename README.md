@@ -25,13 +25,56 @@ The objective was to identify the most impactful KPIs that reflect business grow
 - Used for retention analysis, ARPU calculation, and transaction trends.
 
 ---
-### Aditional Information about the dataset
+### Aditional Information about the dataset & CaseStudy Prompt
   two primary datasets were used for this Growth Data Analysis case study:
 
 - 01_signup.csv: Contains monthly digital ad spend, app installs, and new accounts created.
 - 02_monthly_performance.csv: Contains monthly user activity metrics, revenue, transaction count, and cohort-based MAUs.
 
 The data spans a 16-month period and will be used to derive key KPIs such as MAU, ARPU, retention rate, and transaction value.
+# 📄 Growth Analyst Case Study Prompt
+
+As a Growth Data Analyst, you have been tasked with understanding the performance of our marketing spend, as well as general business performance. There are 2 sources of information that are available to you, namely:
+
+### 01_signup
+Schema:
+- `month`: The reporting month.
+- `spend_usd`: Total spend on digital ads (in $).
+- `n_installs`: The number of installs in the reporting month.
+- `n_accounts_created`: The number of accounts created in the reporting month.
+
+### 02_monthly_performance
+Schema:
+- `transaction_month`: The transaction (reporting) month.
+- `account_created_cohort_month`: The month in which the user’s account was created.
+- `n_maus`: The number of Monthly Active Users (MAUs).
+- `total_revenue_usd`: The total revenue (in USD) accrued.
+- `n_transactions`: The total count of transactions completed.
+- `total_transaction_value_usd`: The total volume (in USD) of the transactions completed.
+
+---
+
+### 📌 Instructions
+
+The management team has asked you to analyze the data and share key insights into the business performance.  
+**What would be your top 4 KPIs you would present to the team?**
+
+Please prepare a short presentation/document that highlights:
+- What these 4 KPIs are
+- Why you’ve chosen them (as a Growth Data Analyst)
+- How you calculated them
+- The outcome of these KPIs
+
+**[Bonus]**  
+We are interested in understanding the average retention rate of our MAUs — are you able to uncover this?
+
+---
+
+### 📝 Notes
+- The data is completely random and provides a 16-month snapshot.
+- You will be able to pull many metrics from the dataset(s), but the main objective is to highlight the **most important** ones (and why).
+- We recommend spending no more than **4–5 hours** on this.
+
 
 
 
