@@ -1,6 +1,6 @@
 # Growth-Performance-Retention-Revenue-Analysis
 
-A cohort-based growth and revenue analysis for a financial platform, using MAU, ARPU, and retention metrics to uncover performance trends.
+A Cohort-Based Growth and Revenue Analysis for a Financial Services Company, using Monthly Active Users (MAU), Average Revenue Per User (ARPU), and Retention Metrics to uncover Performance Trends.
 
 ## 📚 Table of Contents
 
