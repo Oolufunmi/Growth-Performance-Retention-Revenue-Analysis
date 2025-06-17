@@ -25,6 +25,16 @@ The objective was to identify the most impactful KPIs that reflect business grow
 - Used for retention analysis, ARPU calculation, and transaction trends.
 
 ---
+- Aditional Information about the dataset
+  two primary datasets were used for this Growth Data Analysis case study:
+
+- 01_signup.csv: Contains monthly digital ad spend, app installs, and new accounts created.
+- 02_monthly_performance.csv: Contains monthly user activity metrics, revenue, transaction count, and cohort-based MAUs.
+
+The data spans a 16-month period and will be used to derive key KPIs such as MAU, ARPU, retention rate, and transaction value.
+
+
+
 
 ## 📄 Project Files
 
