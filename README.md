@@ -21,6 +21,7 @@ The objective was to identify the most impactful KPIs that reflect business grow
 - Cohort-based user activity data including MAUs, transactions, revenue.
 - Used for retention analysis, ARPU calculation, and transaction trends.
 
+
 ## 📄 Project Files
 
 - 📘 [User Performance Report (PDF)](./User_Performance_Report.pdf)
@@ -52,6 +53,7 @@ The objective was to identify the most impactful KPIs that reflect business grow
 - MAUs and ARPU showed strong, consistent growth
 - Retention improved in newer cohorts
 - Ad spend volatility didn’t always correlate with growth
+  [Kuda User Performance Report.pdf](https://github.com/user-attachments/files/20777711/Kuda.User.Performance.Report.pdf)
 ## ✅ Recommendations
 
 - Focus on ARPU-driving initiatives
