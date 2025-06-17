@@ -10,6 +10,17 @@ The objective was to identify the most impactful KPIs that reflect business grow
 
 - `01_signup.csv`: Ad spend, installs, accounts created
 - `02_monthly_performance.csv`: MAUs, transactions, revenue
+  
+## 📂 Data Sources
+
+### `data/01_signup.csv`
+- Monthly ad spend, app installs, and account creation figures.
+- Used to assess marketing efficiency and acquisition trends.
+
+### `data/02_monthly_performance.csv`
+- Cohort-based user activity data including MAUs, transactions, revenue.
+- Used for retention analysis, ARPU calculation, and transaction trends.
+
 
 ## ✅ Key KPIs Analyzed
 
