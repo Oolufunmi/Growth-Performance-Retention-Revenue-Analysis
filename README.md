@@ -40,7 +40,7 @@ The objective was to identify the most impactful KPIs that reflect business grow
 - Used for retention analysis, ARPU calculation, and transaction trends.
 
 ---
-### Aditional Information about the dataset & CaseStudy Context
+### Aditional Dataset Information & CaseStudy Context
   two primary datasets were used for this Growth Data Analysis case study:
 
 - 01_signup.csv: Contains monthly digital ad spend, app installs, and new accounts created.
