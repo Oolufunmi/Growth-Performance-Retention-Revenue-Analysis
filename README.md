@@ -55,7 +55,7 @@ The objective was to identify the most impactful KPIs that reflect business grow
 - Ad spend volatility didn’t always correlate with growth
 
   
-  [User Performance Report.pdf](https://github.com/user-attachments/files/20777711/Kuda.User.Performance.Report.pdf)
+  [./User Performance Report.pdf](https://github.com/user-attachments/files/20777711/Kuda.User.Performance.Report.pdf)
 ## ✅ Recommendations
 
 - Focus on ARPU-driving initiatives
