@@ -30,9 +30,7 @@ The objective was to identify the most impactful KPIs that reflect business grow
 
 - 📁 `data/` – Source CSVs  
 - 📁 `visuals/` – Charts and summary images  
-- 📄 `Kuda_User_Performance_Report.pdf` – Final report  
-- [Optional] `analysis/` – Scripts or notebooks for calculation
-
+- 📄 `User_Performance_Report.pdf` 
 ## 📌 Key Insights
 
 - MAUs and ARPU showed strong, consistent growth
