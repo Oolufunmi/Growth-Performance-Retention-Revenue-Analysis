@@ -47,7 +47,7 @@ The objective was to identify the most impactful KPIs that reflect business grow
 - 02_monthly_performance.csv: Contains monthly user activity metrics, revenue, transaction count, and cohort-based MAUs.
 
 The data spans a 16-month period and will be used to derive key KPIs such as MAU, ARPU, retention rate, and transaction value.
-# 📄 Growth Analyst Case Study Prompt
+# 📄 Growth Analyst Case Study Context
 
 As a Growth Data Analyst, you have been tasked with understanding the performance of our marketing spend, as well as general business performance. There are 2 sources of information that are available to you, namely:
 
