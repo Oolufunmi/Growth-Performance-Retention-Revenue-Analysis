@@ -53,6 +53,8 @@ The objective was to identify the most impactful KPIs that reflect business grow
 - MAUs and ARPU showed strong, consistent growth
 - Retention improved in newer cohorts
 - Ad spend volatility didn’t always correlate with growth
+
+  
   [Kuda User Performance Report.pdf](https://github.com/user-attachments/files/20777711/Kuda.User.Performance.Report.pdf)
 ## ✅ Recommendations
 
